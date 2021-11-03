@@ -1,1 +1,23 @@
-body{background-color: mediumpurple;}
+
+body{
+    background-color: paleturquoise;
+  }
+  ul{
+    list-style: lower-alpha;
+  }
+  a{
+    color: black;
+    text-decoration: none;
+    background-color: yellowgreen;
+  }
+
+
+
+img{ width:80%;
+height: 80%;  }
+
+p{padding: 10px;}
+
+ol { border-style: groove;
+	border-color: purple;
+border-width: 30x;}
