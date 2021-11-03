@@ -1,0 +1,19 @@
+
+body{
+    background-color: peachpuff; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: darkblue;
+    background-color: lightcyan;
+    font-variant-caps: all-small-caps;
+    font-size: 50px;
+
+  }
+
+  h2{
+    color: lightseagreen;
+    background-color: lightcyan;
+    font-style: italic;
+
+  }
