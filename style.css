@@ -7,13 +7,39 @@ h1{
     color: darkblue;
     background-color: lightcyan;
     font-variant-caps: all-small-caps;
+  
     font-size: 50px;
+    letter-spacing: 5px;
+    
+
 
   }
 
   h2{
     color: lightseagreen;
     background-color: lightcyan;
-    font-style: italic;
-
+    font-size: 15px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
   }
+    h3 {  
+      text-align: center;
+    }
+  
+
+  img { 
+    width:20%;
+    height: 20%;  
+    border-style: double;
+border-width: 10px;
+border-inline-end-color: mediumspringgreen;
+border-inline-start-color: cyan;
+
+;
+    
+  } 
+  
+  
+
+  
