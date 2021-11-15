@@ -1,7 +1,8 @@
 
 
 
-p {  
-    text-align: center;
-   
-  }
+.inl1{
+    display: inline-block;
+    width: 1000px; 
+    height: 1000px;
+}
