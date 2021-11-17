@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBWBEsxMU6DGooaygOVd9Y2HV_OaxXtwqJg&usqp=CAU");
+   
+  }
+
+
+
+.restrict{
+
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    background: white;
+    position: relative;
+    border: red;
+    border-radius: 3px;
+border-style: groove;
+padding: 16px;
+padding-bottom: 50px;
+}
+.levelnumb {
+    font-family: sarina, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+}
+
+.Title {
+    font-family: minion-3, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+li {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:17px;
+    text-overflow: ellipsis;
+    max-width:500px;
+
+}
+
+.text {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:17px;
+
+}
+
+.right {
+    
+    position: absolute;
+    top: -3px;
+    right: -5px;
+}
