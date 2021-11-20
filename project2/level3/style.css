@@ -1,0 +1,265 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBWBEsxMU6DGooaygOVd9Y2HV_OaxXtwqJg&usqp=CAU");
+   
+  }
+
+  .upper {
+      text-align: center;
+
+  }
+
+
+  .header {
+
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom:  100px;
+    padding-top:10px;
+    width: 300px;
+    height: 100px;
+    background: black;
+    color: white;
+    font-family: filicudi-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.home { 
+    color: white;
+    font-family: filicudi-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.left {
+  
+    float:left;
+}
+   
+.right {
+    float:right;
+    display:-ms-inline-flexbox;
+   
+}
+
+
+
+
+
+.restrict{
+
+    height: fit-content;
+    background: white;
+    border: red;
+    border-radius: 3px;
+border-style: groove;
+padding: 19px;
+margin-top: 60px;
+margin-right: 60px;
+margin-left: 60px;
+
+}
+
+
+.levelnumb {
+font-family: sarina, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+
+}
+
+.title {
+    font-family: minion-3, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-right: auto;
+    margin-left: 30px ;
+  
+}
+
+
+
+li {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:17px;
+    text-overflow: ellipsis;
+    margin-right: auto;
+   
+    text-indent: -24px; 
+    margin-left: 24px;
+
+}
+
+.text {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBWBEsxMU6DGooaygOVd9Y2HV_OaxXtwqJg&usqp=CAU");
+   
+  }
+
+  .upper {
+      text-align: center;
+
+  }
+
+
+  .header {
+
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom:  100px;
+    padding-top:10px;
+    width: 300px;
+    height: 100px;
+    background: black;
+    color: white;
+    font-family: filicudi-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.home { 
+    color: white;
+    font-family: filicudi-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.left {
+  
+    float:left;
+}
+   
+.right {
+    float:right;
+    display:-ms-inline-flexbox;
+   
+}
+
+
+
+
+
+.restrict{
+
+    height: fit-content;
+    background: white;
+    border: red;
+    border-radius: 3px;
+border-style: groove;
+padding: 19px;
+margin-top: 60px;
+margin-right: 60px;
+margin-left: 60px;
+
+}
+
+
+.levelnumb {
+font-family: sarina, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+
+}
+
+.title {
+    font-family: minion-3, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-right: auto;
+    margin-left: 30px ;
+  
+}
+
+
+
+li {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:17px;
+    text-overflow: ellipsis;
+    margin-right: auto;
+   
+    text-indent: -24px; 
+    margin-left: 24px;
+
+}
+
+.text {
+    font-family: minion-3, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}

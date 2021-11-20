@@ -1,0 +1,38 @@
+
+  .upper {
+    text-align: center;
+
+}
+
+
+.header {
+
+  display: inline-block;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom:  25px;
+  padding-top:10px;
+  width: 300px;
+  height: 100px;
+  background: black;
+  margin-bottom:  50px;
+
+}
+
+
+
+
+
+
+
+.left {
+
+  float:left;
+}
+ 
+.right {
+  float:right;
+  display:-ms-inline-flexbox;
+ 
+}
+
