@@ -9,22 +9,6 @@ body {
   }
 
 
-  .header {
-
-    display: inline-block;
-    padding-right: 40px;
-    padding-left: 40px;
-    padding-bottom:  100px;
-    padding-top:10px;
-    width: 300px;
-    height: 100px;
-    background: black;
-    color: white;
-    font-family: filicudi-solid, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
 .home { 
     color: white;
     font-family: filicudi-solid, sans-serif;
@@ -34,42 +18,76 @@ body {
 
 
 
-
-a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-
-.left {
-  
-    float:left;
-}
-   
-.right {
-    float:right;
-    display:-ms-inline-flexbox;
-   
-}
-
+    .upper {
+        text-align: center;
+    
+    }
+    
+    
+    .header {
+    
+      display: inline-block;
+      padding-right: 40px;
+      padding-left: 40px;
+      padding-bottom:  30px;
+      padding-top:10px;
+      width: 600px;
+      height: 20px;
+      background: black;
+      margin-bottom:  20px;
+      color:white;
+      font-family: flegrei, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+    }
+    .header1{
+        text-align: 
+        right;
+    font-size:20px;
+    }
+    
+    
+    a:link {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+    
+    
+    
+    
+    
+    .left {
+    
+      float:left;
+    }
+     
+    .right {
+      float:right;
+      display:-ms-inline-flexbox;
+     
+    }
+    
 
 
 
@@ -79,8 +97,9 @@ a:link {
     height: fit-content;
     background: white;
     border: red;
-    border-radius: 3px;
-border-style: groove;
+    border-radius: 0px;
+    border:100px;
+border-style:double;
 padding: 19px;
 margin-top: 60px;
 margin-right: 60px;
