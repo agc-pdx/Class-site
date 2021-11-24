@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBWBEsxMU6DGooaygOVd9Y2HV_OaxXtwqJg&usqp=CAU");
+    background-image: url("https://t3.ftcdn.net/jpg/01/44/39/46/240_F_144394638_hBhlF3j2AS5JBvNxKdnyrbJPGfKUKONs.jpg");
    
   }
 
@@ -8,22 +8,6 @@ body {
 
   }
 
-
-  .header {
-
-    display: inline-block;
-    padding-right: 40px;
-    padding-left: 40px;
-    padding-bottom:  100px;
-    padding-top:10px;
-    width: 300px;
-    height: 100px;
-    background: black;
-    color: white;
-    font-family: filicudi-solid, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
 
 .home { 
     color: white;
@@ -34,42 +18,77 @@ body {
 
 
 
-
-a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-
-.left {
-  
-    float:left;
-}
-   
-.right {
-    float:right;
+    .upper {
+        text-align: center;
     
-   
-}
-
+    }
+    
+    
+    .header {
+    
+      display: inline-block;
+      padding-right: 40px;
+      padding-left: 40px;
+      padding-bottom:  30px;
+      padding-top:10px;
+      width: 600px;
+      height: 20px;
+      background: black;
+      margin-bottom:  20px;
+      color:white;
+      font-family: flegrei, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+    
+    }
+    .header1{
+        margin-right: auto;
+        margin-left: auto;
+    
+    }
+    
+    
+    a:link {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+    
+    
+    
+    
+    
+    .left {
+    
+      float:left;
+    }
+     
+    .right {
+      float:right;
+     
+     
+    }
+    
 
 
 
@@ -79,8 +98,9 @@ a:link {
     height: fit-content;
     background: white;
     border: red;
-    border-radius: 3px;
-border-style: groove;
+    border-radius: 0px;
+    border:100px;
+border-style:double;
 padding: 19px;
 margin-top: 60px;
 margin-right: 60px;
@@ -108,6 +128,7 @@ font-size: 30px;
 }
 
 
+
 li {
     font-family: minion-3, serif;
     font-weight: 400;
@@ -115,6 +136,7 @@ li {
     font-size:17px;
     text-overflow: ellipsis;
     margin-right: auto;
+   
     text-indent: -24px; 
     margin-left: 24px;
 
@@ -126,7 +148,6 @@ li {
     font-style: normal;
     font-size: 17px;
     margin-right: auto;
-    margin-left: 1px;
- 
+    margin-left: auto;
     
 }
