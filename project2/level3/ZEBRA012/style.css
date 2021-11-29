@@ -69,3 +69,92 @@ a:link {
  
 }
 
+
+.igreen {
+  display:inline-block;
+width: 40px;
+height: 50px;
+margin-top:90px;
+padding-top:90px;
+padding-left:20px;
+padding-right:20px;
+background-color:grey;
+transform: rotate(30px) ;
+
+}
+
+.iorange {
+  display:inline-block;
+  width: 40px;
+  height: 10px;
+  margin-top:90px;
+  padding-top:90px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:darkgray ; 
+  transform: rotate(30px) ;
+  
+  }
+
+.ipink  {
+  display:inline-block;
+  width: 80px;
+  height: 30px;
+  margin-top:30px;
+  padding-top:30px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:whitesmoke ; 
+  transform: rotate(30px) ;
+  
+  }
+
+.iblack  {
+  display:inline-block;
+  width: 1px;
+  height: 150px;
+  padding-left:10px;
+  transform: rotate(-10deg) ;
+  background-color:silver ; 
+ 
+  
+  }
+
+
+.ipurple  {
+  display:inline-block;
+  width: 1px;
+  height: 200px;
+  padding-left:10px;
+  transform: rotate(25deg) ;
+  background-color:whitesmoke ; 
+
+  
+  }
+
+.ired  {
+  display:inline-block;
+  width: max-content;
+  height: 30px;
+  margin-top:30px;
+  padding-top:30px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:whitesmoke ; 
+  transform: rotate(30px) ;
+  
+  }
+
+
+.iall  {
+  display:inline-block;
+  width: max-content;
+  height: 30px;
+  margin-top:30px;
+  padding-top:30px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:whitesmoke ; 
+  transform: rotate(30px) ;
+  
+  }
