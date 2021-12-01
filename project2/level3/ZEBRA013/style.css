@@ -68,4 +68,54 @@ a:link {
   display:-ms-inline-flexbox;
  
 }
+ 
+.box1 {
 
+text-transform:uppercase;
+float: left;
+display:inline-flexbox;
+box-sizing: border-flexbox;
+width:150px;
+height:100px;
+border-style: inset;
+border-width:9px;
+padding-left:20px;
+border-right-width:0;
+
+}
+
+.box2 {
+  
+  text-transform:uppercase;
+  box-sizing: border-box;
+  float: left;
+  display:inline-flexbox;
+  margin-top: 83px;
+  margin-left: -70px;
+  width: 270px;
+  height: 106px;
+  border-style: solid;
+  border-right-width: 0;
+  border-style: inset;
+  border-width: 9px;
+  padding-left: 20px;
+  transform: rotate(90deg);
+  border-right-width:0;
+
+}
+
+.box3 {
+
+  text-transform:uppercase;
+  float: left;
+  display:inline-flexbox;
+  box-sizing: border-flexbox;
+  width:150px;
+  height:100px;
+  
+  border-style: outset;
+  border-width:9px;
+  padding-left:20px;
+  border-right-width:0;
+  
+  }
