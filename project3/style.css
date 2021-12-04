@@ -1,0 +1,16 @@
+body {
+ 
+background-color:turquoise;
+background-image: url("https://i.ibb.co/DCc0D3v/5.png");
+}
+ 
+
+.image:hover {
+
+    transform: rotate(90deg);
+}
+
+.planet1{
+    width: 100000px;
+    padding:10000px;
+}
