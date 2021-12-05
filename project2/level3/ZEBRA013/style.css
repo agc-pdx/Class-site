@@ -286,7 +286,7 @@ border-right-width:0;
         padding-right: 30px;
         padding-top: 6px;
         padding-bottom: 0px;
-        transform:rotate(-90deg)
+        transform:rotate(-90deg);
         
         }
   
@@ -297,7 +297,7 @@ border-right-width:0;
           box-sizing: border-flexbox;
           margin-inline: 455px;
           margin-block: -8px;
-          width: 290px;
+          width: 515px;
           height: 60px;
           border-style: outset;
           border-width: 9px;
@@ -319,13 +319,14 @@ border-right-width:0;
             margin-block: 15px;
             width: 135px;
             height: 100px;
-            border-style: outset;
+            border-style: inset;
             border-width: 9px;
             padding-left: 30px;
             border-top-width:0;
+            border-right-width:0;
             padding-right: 30px;
             padding-top: 6px;
-            padding-bottom: 0px;
+            padding-bottom: 40px;
          
             
             }
@@ -333,20 +334,22 @@ border-right-width:0;
             .qmark {
 
               text-transform:uppercase;
-              display:inline-block ;
+              display:inline-flex ;
               box-sizing: border-flexbox;
-              margin-inline: 675px;
-              margin-block: -132px;
+              margin-inline: 629px;
+              margin-block: -163px;
               width: 50px;
               height: 94px;
               border-style: outset;
               border-width: 9px;
-              padding-left:60px;
+              padding-left:100px;
               border-right-width:0;
-              padding-right: 30px;
-              padding-top: 6px;
-              padding-bottom: 0px;
-            
+              border-bottom-width:0;
+              padding-left: 70px;
+              padding-right: 70px;
+              padding-top: 0px;
+              padding-bottom: 45px;
+              transform:rotate(-180deg);
               }
 
               .put1 {
@@ -355,16 +358,16 @@ border-right-width:0;
                 display:inline-table;
                 box-sizing: border-flexbox;
                 margin-inline: 835px;
-                margin-block: -130px;
-                height: 50px;
-                border-style: outset;
+                margin-block: -165px;
+                border-style: inset;
                 border-width: 9px;
                 padding-left:20px;
                 border-bottom-width:0;
+                border-right-width: 0;
                 padding-right: 25px;
-                padding-top: 17px;
+                padding-top: 10px;
                 padding-bottom: 0px;
-              
+         
                 }
       
 
@@ -372,15 +375,13 @@ border-right-width:0;
                 .put2 {
 
                   text-transform: uppercase;
-                  display: inline-table;
+                  display: inline-block;
                   box-sizing: border-flexbox;
-                  margin-inline: 1040px;
-                  margin-block: 30px;
-                  width: 0px;
-                  height: 9px;
-                  border-style: outset;
+                  margin-inline: 1015px;
+                  border-style: inset;
                   border-width: 9px;
                   padding-left: 20px;
+                  border-bottom-width:0;
                   border-right-width: 0;
                   padding-right: 20px;
                   padding-top: 17px;
@@ -393,12 +394,11 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 1220px;
-                    margin-block: -16px;
-                    height: 50px;
-                    border-style: outset;
+                    margin-inline: 1200px;
+                    border-style: inset;
                     border-width: 9px;
                     padding-left: 20px;
+                    border-bottom-width:0;
                     border-right-width: 0;
                     padding-right: 20px;
                     padding-top: 17px;
@@ -411,16 +411,17 @@ border-right-width:0;
                   text-transform: uppercase;
                   display: inline-table;
                   box-sizing: border-flexbox;
-                  margin-inline: 835px;
-                  margin-block: -15px;
-                  height: 50px;
-                  border-style: outset;
-                  border-width: 9px;
+                  margin-inline: 1300px;
+                  border-style: inset;
+                  border-width: 9px; 
+                  width:80px;
                   padding-left: 20px;
+                  border-bottom-width:0;
                   border-right-width: 0;
                   padding-right: 20px;
                   padding-top: 17px;
                   padding-bottom: 0px;
+                
                 
                   }
 
@@ -429,28 +430,42 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 835px;
-                    margin-block: -15px;
-                    height: 50px;
-                    border-style: outset;
+                    margin-inline: 1420px;
+                    width: 70px;
+                    border-style: inset;
                     border-width: 9px;
                     padding-left: 20px;
+                    border-bottom-width:0;
                     border-right-width: 0;
                     padding-right: 20px;
                     padding-top: 17px;
                     padding-bottom: 0px;
                   
+                  
                     }
 
 
                   .moon2{
-
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 835px;
+                    margin-inline: 1420px;
+                    width: 70px;
+                    border-style: inset;
+                    border-width: 9px;
+                    padding-left: 20px;
+                    border-bottom-width:0;
+                    border-right-width: 0;
+                    padding-right: 20px;
+                    padding-top: 17px;
+                    padding-bottom: 0px;
+                  
+                    text-transform: uppercase;
+                    display: inline-table;
+                    box-sizing: border-flexbox;
+                   
                     margin-block: -15px;
-                    width:px;
+                
                     border-style: outset;
                     border-width: 9px;
                     padding-left: 50px;
@@ -469,8 +484,8 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 1000px;
-                    margin-block: -15px;
+                    margin-inline:1650px;
+                    margin-block: -300px;
                     height: 50px;
                     border-style: outset;
                     border-width: 9 px;
