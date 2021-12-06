@@ -117,11 +117,43 @@ background-image: url("https://i.ibb.co/DCc0D3v/5.png");
   }
 
   .planets1:hover {
-display:inline-flex;
+display:inline-block;
 height:80px ;
 padding:2px;
 transform:rotate(-90deg)scale(90%);
+  }
+  .planets2:hover {
+    display:inline-block;
+    height:120px ;
+    padding:2px;
+    transform:rotate(-90deg)scale(90%);
+      }
+      .planets3:hover {
+        display:inline-block;
+        height:240px ;
+        padding:2px;
+        transform:rotate(-90deg)scale(90%);
+          }
+          .planets4:hover {
+            display:inline-block;
+            height:80px ;
+            padding:2px;
+            transform:rotate(-90deg)scale(90%);
+              }
 
+  .planets1 {
 
+    display: inline-block;
+  }
+  .planets2 {
 
+    display: inline-block;
+  }
+  .planets3 {
+
+    display: inline-block;
+  }
+  .planets4 {
+
+    display: inline-block;
   }
