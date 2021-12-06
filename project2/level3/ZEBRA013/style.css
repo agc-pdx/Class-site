@@ -69,7 +69,44 @@ a:link {
 
 
 
-/*  nav ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* nav ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -411,7 +448,7 @@ border-right-width:0;
                   text-transform: uppercase;
                   display: inline-table;
                   box-sizing: border-flexbox;
-                  margin-inline: 1300px;
+                  margin-inline: 1340px;
                   border-style: inset;
                   border-width: 9px; 
                   width:80px;
@@ -430,7 +467,7 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 1420px;
+                    margin-inline: 1470px;
                     width: 70px;
                     border-style: inset;
                     border-width: 9px;
@@ -449,22 +486,13 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline: 1420px;
+                    margin-inline: 1622px;
                     width: 70px;
                     border-style: inset;
-                    border-width: 9px;
-                    padding-left: 20px;
-                    border-bottom-width:0;
-                    border-right-width: 0;
-                    padding-right: 20px;
-                    padding-top: 17px;
-                    padding-bottom: 0px;
-                  
-                    text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
                    
-                    margin-block: -15px;
+                    margin-block: -700px;
                 
                     border-style: outset;
                     border-width: 9px;
@@ -474,7 +502,7 @@ border-right-width:0;
                     padding-top: 17px;
                     padding-bottom: 0px;
                     border-radius: 900px;
-
+                  
                     }
                     
 
@@ -484,23 +512,208 @@ border-right-width:0;
                     text-transform: uppercase;
                     display: inline-table;
                     box-sizing: border-flexbox;
-                    margin-inline:1650px;
-                    margin-block: -300px;
+                    margin-inline:1720px;
+                    margin-block: -499px;
                     height: 50px;
-                    border-style: outset;
-                    border-width: 9 px;
+                    border-style: inset;
+                    border-width: 9px;
                     padding-left: 40px;
                     border-right-width: 0;
                     padding-right: 20px;
                     padding-top: 20px;
                     padding-bottom: 0px;
                     border-radius: 900px;
-                  
+                 
                   transform: rotate(deg);
                     }
 
+                    .put6 {
+
+                      text-transform: uppercase;
+                      display: inline-table;
+                      box-sizing: border-flexbox;
+                      margin-inline:1920px;
+                      margin-block: -100px;
+                      height: 0px;
+                      border-style: outset;
+                      border-width: 9px;
+                      padding-left: 40px;
+                      border-left-width: 0;
+                      border-top-width: 0;
+                      padding-right: 20px;
+                      padding-top: 20px;
+                      padding-bottom: 0px;
+                
+                    transform: rotate(deg);
+                      }
 
 
+                      .put7 {
+
+                        text-transform: uppercase;
+                        display: inline-table;
+                        box-sizing: border-flexbox;
+                        margin-inline:2046px;
+                        margin-block:-190px;
+                        Width: 20px;
+                        border-style: outset;
+                        border-width: 9px;
+                        padding-left: 40px;
+                        border-left-width: 0;
+                        border-top-width: 0;
+                        padding-right: 20px;
+                        padding-top: 20px;
+                        padding-bottom: 0px;
+                  
+                      transform: rotate(deg);
+                        }
+
+                        .put8 {
+
+                          text-transform: uppercase;
+                          display: inline-table;
+                          box-sizing: border-flexbox;
+                          margin-inline:2172px;
+                          margin-block:-279px;
+                          Width: 0px;
+                          border-style: outset;
+                          border-width: 9px;
+                          padding-left: 40px;
+                          border-left-width: 0;
+                          border-top-width: 0;
+                          padding-right: 20px;
+                          padding-top: 20px;
+                          padding-bottom: 0px;
+                    
+                        transform: rotate(deg);
+                          }
+  
+
+                          .a1 {
+
+                            text-transform: uppercase;
+                            display: inline-table;
+                            box-sizing: border-flexbox;
+                            margin-inline:2267px;
+                            margin-block:-345px;
+                            Width: 150px;
+                            border-style: outset;
+                            border-width: 9px;
+                            padding-left: 40px;
+                          
+                            border-right-width: 0;
+                            padding-right: 20px;
+                            padding-top: 20px;
+                            padding-bottom: 0px;
+                      
+                          transform: rotate(deg);
+                            }
 
         
+                            .a2 {
+
+                              text-transform: uppercase;
+                              display: inline-table;
+                              box-sizing: border-flexbox;
+                              margin-inline:2486px;
+                              margin-block:-345px;
+                              Width: 160px;
+                              border-style: outset;
+                              border-width: 9px;
+                              padding-left: 40px;
+                            
+                              border-right-width: 0;
+                              padding-right: 20px;
+                              padding-top: 20px;
+                              padding-bottom: 0px;
+                        
+                            transform: rotate(deg);
+                              }
+
+                              .a3 {
+
+                                text-transform: uppercase;
+                                display: inline-table;
+                                box-sizing: border-flexbox;
+                                margin-inline:2715px;
+                                margin-block:-345px;
+                                Width: 160px;
+                                border-style: outset;
+                                border-width: 9px;
+                                padding-left: 40px;
+                              
+                                border-right-width: 0;
+                                padding-right: 20px;
+                                padding-top: 20px;
+                                padding-bottom: 0px;
+                          
+                              transform: rotate(deg);
+                                }
+
+                                .end1 {
+
+                                  text-transform: uppercase;
+                                  display: inline-table;
+                                  box-sizing: border-flexbox;
+                                  margin-inline:2940px;
+                                  margin-block:-280px;
+                                  Width: 0px;
+                                  border-style: outset;
+                                  border-width: 9px;
+                                  padding-left: 40px;
+                                  border-top-width: 0;
+                                  border-right-width: 0;
+                                  padding-right: 20px;
+                                  padding-top: 20px;
+                                  padding-bottom: 0px;
+                            
+                                transform: rotate(deg);
+                                  }
+    
+            
+
+                                .end2 {
+
+                                  text-transform: uppercase;
+                                  display: inline-table;
+                                  box-sizing: border-flexbox;
+                                  margin-inline:3070px;
+                                  margin-block:-198px;
+                                  Width: 0px;
+                                  border-style: outset;
+                                  border-width: 9px;
+                                  padding-left: 40px;
+                                  border-top-width: 0;
+                                  border-right-width: 0;
+                                  padding-right: 20px;
+                                  padding-top: 20px;
+                                  padding-bottom: 0px;
+                            
+                                transform: rotate(deg);
+                                  }
+    
+                                  .end3 {
+
+                                    text-transform: uppercase;
+                                    display: inline-table;
+                                    box-sizing: border-flexbox;
+                                    margin-inline:3150px;
+                                    margin-block:-128px;
+                                    Width: 0px;
+                                    border-style: outset;
+                                    border-width: 9px;
+                                    padding-left: 40px;
+                                    border-top-width: 0;
+                                    border-right-width: 0;
+                                    padding-right: 20px;
+                                    padding-top: 20px;
+                                    padding-bottom: 0px;
+                              
+                                  transform: rotate(deg);
+                                    }
+      
+    
+            
   
+          
+

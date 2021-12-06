@@ -1,17 +1,30 @@
 
 
-
 $ ('#f1').submit(function(event){
 event.preventDefault();
 var textInput = $('#myinput').val();
 $('#title').html(textInput);
 
-});
-
-io.on('connection',function(socket){
-console.log('made socet connection', socket.id)
 
 });
 
-socket.connect 
-var socket = io.connect('https://agc-pdx.github.io/Class-site/project3/');
+
+const btn = document.getElementsByClassName('btn')[0] 
+const comets = document.getElementById('comets')
+const text = document.getElementById('text')
+btn.addEventListener('click', () => {
+  comets.appendChild(createCommentDOM(text.value))
+  text.value = ''
+})
+
+function createCommentDOM(text) {
+  let commentDOM = document.createElement('div')
+  commentDOM.classList.add('comment')
+  commentDOM.style.top = `${getRandomInt(100)}%`
+  commentDOM.innerText = text
+  return commentDOM
+} 
+
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
