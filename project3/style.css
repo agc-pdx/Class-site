@@ -141,6 +141,19 @@ transform:rotate(-90deg)scale(90%);
             transform:rotate(-90deg)scale(90%);
               }
 
+              .planets5:hover {
+                display:inline-block;
+                height:210px ;
+                padding:2px;
+                transform:rotate(-90deg)scale(90%);
+                  }
+                  .planets6:hover {
+                    display:inline-block;
+                    height:130px ;
+                    padding:2px;
+                    transform:rotate(-90deg)scale(90%);
+                      }
+
   .planets1 {
 
     display: inline-block;
@@ -154,6 +167,14 @@ transform:rotate(-90deg)scale(90%);
     display: inline-block;
   }
   .planets4 {
+
+    display: inline-block;
+  }
+  .planets5 {
+
+    display: inline-block;
+  }
+  .planets6 {
 
     display: inline-block;
   }
